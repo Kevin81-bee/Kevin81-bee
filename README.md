@@ -5,6 +5,8 @@
 🌐 Momenteel werk ik aan IT-talenten.com
 , waar ik mijn kennis van webontwikkeling uitbreid met Angular, TypeScript en moderne front-end technologieën.
 
+-----
+
 ### 🧰 Technologieën & tools
 
 Frontend: HTML, CSS, JavaScript, TypeScript, Angular
@@ -17,10 +19,14 @@ Editor: VS Code
 
 Focus: Toegankelijke, overzichtelijke en goed gestructureerde webinterfaces
 
+-----
+
 ### 🚀 Wat mij drijft
 
 Ik geloof dat goede code, net als goed eten, draait om aandacht, balans en beleving.
 Ik leer elke dag bij — of dat nu gaat over componentarchitectuur, UX, of hoe ik mijn code schoner kan schrijven.
+
+-----
 
 ### 📈 Wat ik nu leer
 
@@ -29,6 +35,8 @@ Dieper duiken in Angular 17 en TypeScript
 Werken met API’s en Reactive Programming (RxJS)
 
 Betere Git-workflows en samenwerking via Gitea
+
+-----
 
 ### 🤝 Connect
 
