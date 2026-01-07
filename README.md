@@ -2,8 +2,6 @@
 
 💻 Front-end developer in opleiding met een passie voor ambacht, eenvoud en gastvrijheid — waarden die ik meeneem uit mijn tijd als chef naar de wereld van code.
 
-🌐 Momenteel werk ik aan [IT-talenten.com](https://it-talenten.com/talent)
-, waar ik mijn kennis van webontwikkeling uitbreid met Angular, TypeScript en moderne front-end technologieën.
 
 -----
 
